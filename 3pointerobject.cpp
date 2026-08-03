@@ -13,12 +13,6 @@ class Student{
 
 
 };
-
-
-
-
-
-
 int main(){
 
         Student s1;
